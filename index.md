@@ -503,6 +503,7 @@ AUdience
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
+{% comment %}
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
@@ -595,6 +596,7 @@ AUdience
   </p>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
+{% endcomment %}
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
@@ -647,6 +649,7 @@ AUdience
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
+{% comment %}
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
 
@@ -764,4 +767,5 @@ AUdience
     </li>
   </ol>
 </div>
+{% endcomment %}
 {% endcomment %}
