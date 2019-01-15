@@ -11,8 +11,8 @@ humandate: "Jan 24-25, 2019"    # human-readable dates for the workshop (e.g., "
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-01-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-01-25        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Shichen Wang", "Noushin Ghaffari", "David Bapst", "Ramalingam Saravanan"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Marcel Brun", "Jian Tao", "Adrian Castellanos"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Noushin Ghaffari", "David Bapst", "Ramalingam Saravanan", "Shichen Wang"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Jian Tao", "Adrian Castellanos", "Danielle Walkup", "Danielle Walkup"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["Noushin.Ghaffari@ag.tamu.edu", "shichen.wang@ag.tamu.edu", "dwbapst@tamu.edu", "sarava@tamu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 
 ---
