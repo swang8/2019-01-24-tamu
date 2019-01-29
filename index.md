@@ -13,7 +13,7 @@ startdate: 2019-02-07      # machine-readable start date for the workshop in YYY
 enddate: 2019-02-08        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Noushin Ghaffari", "David Bapst", "Ramalingam Saravanan", "Shichen Wang"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Jian Tao", "Adrian Castellanos", "Danielle Walkup", "Katherine Beall", "Marcel Brun"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["Noushin.Ghaffari@ag.tamu.edu", "shichen.wang@ag.tamu.edu", "dwbapst@tamu.edu", "sarava@tamu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["NGhaffari@tamu.edu", "shichen.wang@ag.tamu.edu", "dwbapst@tamu.edu", "sarava@tamu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 
 ---
 
